@@ -1,12 +1,6 @@
 ## Latest Update
 
-Recently, I've spent quite a lot of time on the following topics: 
-
-- School: Since I'm still a freshman working on my bechalor degree, there's no escape for me from my undergrad school, such as enrolling, major_declaring and finishing homeworks. See more news about [my undergrad](underConstruction.md). 
-
-- Research: By the way, I've also joined a research group and been working on a interesting(at least to myself) topic, so perhaps there might be some related stuff updated later. Check out [my research](underConstruction.md).
-
-- Planning: In addition, it would never be overrated to plan for one's future, from which course to enroll to whether to attend a grad school, and that's actually what I did spared some time for. Why don't you take a glimpse of [my plan](underConstruction.md).
+Check my [2024](2024.md) Summary now!
 
 ---
 
