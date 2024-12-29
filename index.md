@@ -14,7 +14,7 @@ Recently, I've spent quite a lot of time on the following topics:
 
 So here's yardrat's handsome headshot~~~
 
-[YardRat's handsome headshot](images/rat.jpg)
+![YardRat's handsome headshot](images/rat.jpg)
 
 I guess you must be no less confused than me, wondering that how can yardrat be such a dog (~~or what ever, especially when both his and the file's name indicates 'rat'~~), and here comes why (along with some fun facts about yardrat himself): 
 
