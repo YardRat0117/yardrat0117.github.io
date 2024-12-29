@@ -1,6 +1,8 @@
 ## Latest Update
 
-Check my [2024](2024.md) Summary now!
+- Annual Summary: Check my [2024](annual/2024.md) Summary now!
+
+- Tech ideas: Here are some new [tech ideas](tech/ideas.md) that facilate myself. 
 
 ---
 
