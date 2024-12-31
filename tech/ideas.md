@@ -11,3 +11,11 @@
 - Step 1: build a folder 'Shortcut' (or whatever name you prefer) on the `desktop` (or wherever you prefer), and add it to the `PATH` environment variable
 - Step 2: fill the folder with those frequently-used applications' shortcuts
 - Step 3: all is done, and you can use `Win+R` to launch these links :>
+
+## `Roll`
+
+- To be honest, it's not something about improving tech effeciency, but it is really fun.
+- It's a package I designed, which generates fun things like this:
+![fun things](../images/rollShot.png)
+- Just download it [here](../source/roll.tar.gz), and customize it~
+- P.S. I forgot to write a `readme.md` document for it, but just read its source code and you'll understand how things work
