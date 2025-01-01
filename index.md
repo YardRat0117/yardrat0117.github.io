@@ -1,12 +1,16 @@
-## Latest Update
+> Either filthy or pale
+> 
+> YardRat, 2025/01/01
+
+---
+
+#### Latest Update
 
 - Annual Summary: Check my [2024](annual/2024.md) Summary now!
 
 - Tech ideas: Here are some new [tech ideas](tech/ideas.md) that facilate myself. 
 
----
-
-## About Me
+#### About Me
 
 So here's yardrat's handsome headshot~~~
 
@@ -22,9 +26,7 @@ Well, it was during my junior high years when I first came across some furry-rel
 
 This 'fun fact' list would be updated later on, as once I come up something fun and worth writing about~ :)
 
----
-
-## Links
+#### Links
 
 - [XyX](https://xuan-insr.github.io) "Bald head gluttonous office drone"
 - [Ebisu](https://inuebisu.cn) "A puppy that would be delighted by your visit"
