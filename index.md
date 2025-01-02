@@ -1,14 +1,13 @@
-> Either filthy or pale
-> 
-> YardRat, 2025/01/01
-
+---
+layout: default
+title: YardRat0117 | Either filthy or pale
 ---
 
 #### Latest Update
 
 - Annual Summary: Check my [2024](annual/2024.md) Summary now!
 
-- Tech ideas: Here are some new [tech ideas](tech/ideas.md) that facilate myself. 
+- Tech ideas: Here are some new [tech ideas](tech/ideas.md) that facililate myself. 
 
 #### About Me
 
