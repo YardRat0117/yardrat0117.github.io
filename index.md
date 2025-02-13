@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Post-human existential protocol
+title: YardRat the wolf
 ---
 
-## Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia
+## Compiling my post-human existential protocol ...
+Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia, here's YardRat the wolf! 
 
-- Sorry but, this site is **under maintenance**. I didn't yet figure out what to write about actually ...
+![Pretending to be YardRat's pic ...](image/yardrat.jpg)
+
+- [Becoming YardRat: A Journey Beyond Human Boundaries](post/becomingYardRat.md)
+
+I'll continue to upload more interesting post!
