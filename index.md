@@ -8,6 +8,7 @@ Furry fandom AI security researcher, occasional existential crisis, caffeine-dep
 
 ![Pretending to be YardRat's pic ...](image/yardrat.jpg)
 
-- [Becoming YardRat: A Journey Beyond Human Boundaries](post/becomingYardRat.md)
+- [Becoming YardRat: A Journey Beyond Human Boundaries](post/BecomingYardRat.md)
+- [Haru to Sakura, as deer and rabbit](post/HaruToSakura.md)
 
 I'll continue to upload more interesting post!
