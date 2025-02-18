@@ -55,7 +55,7 @@ Good news that I've finally drafted up some of my posts! (And I'll continue to u
 
 	- [Becoming YardRat: A Journey Beyond Human Boundaries](post/BecomingYardRat.md)
 
-	- [Some of my Obsession about sites and posts(Coming Soon)](post/ObsessionSite.md)
+	- [Some of my Obsession about sites and posts](post/OCDProduction.md)
 
 #### Links
 
