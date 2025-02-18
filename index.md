@@ -2,12 +2,7 @@
 layout: default
 title: YardRat the wolf
 ---
-
-## Compiling my post-human existential protocol ...
-
-Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia, here's YardRat the wolf! 
-
-![Pretending to be YardRat's pic ...](image/yardrat.jpg)
+> Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia, here's YardRat the wolf!
 
 #### About Me
 
@@ -55,7 +50,7 @@ Good news that I've finally drafted up some of my posts! (And I'll continue to u
 
 	- [Becoming YardRat: A Journey Beyond Human Boundaries](post/BecomingYardRat.md)
 
-	- [Some of my Obsession about sites and posts](post/OCDProduction.md)
+	- [OCD Production: Why and how did I construct this site?](post/OCDProduction.md)
 
 #### Links
 
