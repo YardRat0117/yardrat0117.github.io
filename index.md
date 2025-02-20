@@ -81,6 +81,7 @@ The following links are by people I know, and should have already reciprocated m
 
 - [XyX: too few philosophical minds, and too many yiffy minds](https://xuan-insr.github.io)
 - [yeelysia: hard to find a viable nickname in English](https://elysium-everlasting.com)
+- [night1918: To learn is to constantly uncover one's own shortcomings.](https://blog.night1918.top)
 
 Additional recommendations: 
 
