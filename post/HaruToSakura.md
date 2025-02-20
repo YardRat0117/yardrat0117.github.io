@@ -13,11 +13,15 @@ That's how someone rated my lifestyle, exactly after I'd talked about my relatio
 
 And it would be worth noting that, my citation is from an *ancient* sci-fi from the 60s of the last century, *The Dandelion Girl*, in which the heroine, Julie Danvers, a time traveler from the future, embarks on a journey that intertwines love and time. She would cross the boundaries of time, only to seek the realization of their pitiful relationship, which, though full of yearning and promise, is ultimately destined to remain unfinished. Julie, much like the fleeting encounters I reflect upon, faces love as something brief, beautiful, and tragic all at once, forever bound by the limits of time and space.
 
+#### The Quiet Aftermath: Reflecting on the Absence of Love
+
 It was in the quiet aftermath of that harsh verdict that I found myself both confronted and oddly liberated. The initial sting of "living in only one season" lingered, but it slowly turned into a puzzle I couldn't ignore. What *season* was I truly living in, and was it so bad that it felt like a perpetual winter? A kind of stark, colorless existence that missed out on the warmth and bloom of love, and yet... was there more to it than I had first assumed?  
 
 The more I reflected, the more I realized that the absence of love, as cold and barren as it might sound, isn't necessarily a life sentence. Maybe, I thought, it's not about the absence of something as much as it's about *how* one chooses to define and experience that absence. That rabbit, that deer, and today—*you*—each represent different parts of the journey, different encounters along the way, no matter how fleeting or seemingly inconsequential they may be.  
 
 And so, here I stand, contemplating not just the fact that I might be living in one season, but the possibility that, maybe, seasons change only when we allow them to. To take this reflection deeper, I find myself navigating the space between two perspectives: the one that is frozen in place, too afraid to move, and the other that keeps searching, no matter the seasons.  
+
+#### The Philosophy of Seasons: Challenging the Concept of Absence
 
 This is where philosophy steps in—those long, winding paths we walk in our minds when our hearts are unsure of where they stand. Through this lens, my life as it stands might be scrutinized with sharp eyes, yet it also holds a certain freedom in its contradictions, even within this *incel* status or anything that bothers, if you will.
 
