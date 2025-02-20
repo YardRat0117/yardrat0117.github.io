@@ -3,6 +3,10 @@ layout: default
 title: YardRat the wolf
 ---
 
+## Chinese Available Now!
+
+Check the [Chinese version](/zh) of my blog!
+
 #### About Me
 
 > Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia, here's YardRat the wolf!
