@@ -84,13 +84,19 @@ Good news! I've finally drafted some of my posts! (And I'll continue to upload m
 The following links are by people I know, and should have already reciprocated my link (they had better ...)
 
 - [XyX: too few philosophical minds, and too many yiffy minds](https://xuan-insr.github.io)
+
 - [yeelysia: hard to find a viable nickname in English](https://elysium-everlasting.com)
+
 - [night1918: To learn is to constantly uncover one's own shortcomings.](https://blog.night1918.top)
+
+- [csfufu: Riajyu](https://csfufu.life)
 
 Additional recommendations: 
 
 - [Yanyan Jiang at NJU: I've read the letter, but I'm still considering a PhD degree though](https://jyywiki.cn)
+
 - [Askell at Anthropic: It is exactly the blog instead of the homepage that inspires me](https://www.askell.blog)
+
 - [Li Lu at ZJU: My undergrad year 1 class advisor, really inspiring about my academic planning](https://lynnlilu.github.io)
 
 #### Contact
