@@ -9,7 +9,7 @@ Check the [Chinese version](/zh) of my blog!
 
 #### About Me
 
-> Furry fandom AI security researcher, occasional existential crisis, caffeine-dependent, cyborg melancholia, here's YardRat the wolf!
+> Furry fandom AI security researcher, occasional existential crisis, caffeine & coke dependent, digital-nomad cyborg melancholia, here's YardRat the wolf!
 
 I guess these FAQs would help you figure out a profile of me~ :>
 
@@ -61,17 +61,17 @@ Good news! I've finally drafted some of my posts! (And I'll continue to upload m
 
 	- [What I'm doing and why I'm doing about research (Coming Soon)](post/Research.md)
 
-- Occasional Existential Crisis: Mostly 
+- Occasional Existential Crisis
 
 	- [Haru to Sakura, as deer and rabbit](post/HaruToSakura.md)
 
 	- [On which path was I led here (Coming Soon)](post/PathLeadHere.md)
 
-- Caffeine-dependent (also cokes and chips)
+- Caffeine & Coke Dependent
 
 	- [Sadly I've been on coke-reduction diet(Coming Soon)](post/CokeDiet.md)
 	
-- Cyborg Melancholia
+- digital-nomad Cyborg Melancholia
 
 	- [Becoming YardRat: A Journey Beyond Human Boundaries](post/BecomingYardRat.md)
 
