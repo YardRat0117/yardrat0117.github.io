@@ -57,6 +57,8 @@ During high school, I got involved in a **biology experiment interest group** an
 
 Good news! I've finally drafted some of my posts! (And I'll continue to upload more)
 
+Note: The bilingual versions of this site may contain asynchronously updated posts!
+
 - AI Security Researcher
 
 	- [What I'm doing and why I'm doing about research (Coming Soon)](post/Research.md)
