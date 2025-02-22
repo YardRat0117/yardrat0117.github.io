@@ -69,6 +69,8 @@ Note: The bilingual versions of this site may contain asynchronously updated pos
 
 	- [On which path was I led here (Coming Soon)](post/PathLeadHere.md)
 
+	- [The Torrent of Symbols: Singles' Day and the Altar of Consumerism](post/SymbolicTorrent.md)
+
 - Caffeine & Coke Dependent
 
 	- [Sadly I've been on coke-reduction diet(Coming Soon)](post/CokeDiet.md)
