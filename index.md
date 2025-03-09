@@ -93,7 +93,7 @@ The following links are by people I know, and should have already reciprocated m
 
 - [night1918: To learn is to constantly uncover one's own shortcomings.](https://blog.night1918.top)
 
-- [csfufu: Riajyu](https://csfufu.life)
+- [This Space Left Blank, As a Warning](post/warning.md)
 
 Additional recommendations: 
 
