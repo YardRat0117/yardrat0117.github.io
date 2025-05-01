@@ -3,106 +3,108 @@ layout: default
 title: YardRat the wolf
 ---
 
-## Chinese Available Now!
+## Chinese Version Unavailable Now...
 
-Check the [Chinese version](/zh) of my blog!
+Since the website is under maintainance, the Chinese version is temporarily unavailable.
 
-#### About Me
+It is expected to be available soon, after I've finished maintaining the website and synced the content with the English version.
 
-> Furry fandom AI security researcher, occasional existential crisis, caffeine & coke dependent, digital-nomad cyborg melancholia, here's YardRat the wolf!
-
-I guess these FAQs would help you figure out a profile of me~ :>
-
-- Q1: Why did you start this site? 
-
-- A1: I don't know, literally. Most of those blogger I know do this for either documenting or displaying, but neither of them suits me. Thus, I gotta admit that I just don't actually know why I've started this site. :L
-
-- Q2: What would you update on this site? 
-
-- A2: I don't know, literally, again. I usually just update posts when I feel like doing so, such as, "oooooh I guess this topic would be fun, so I'd check with ChatGPT(or whatever LLM) and draft up a post about it, then upload it!" And since so, the current process has actually nothing to do with my research/major, but it would be possible later on(if I've really come up with something worthy). ;)
-
-- Q3: What’s the real purpose behind this site, if you’re not sure why you started it and what to post?
-
-- A3: Nothing. Literally, nothing.There's no real purpose, just void, like my life purpose. But hey, isn't that how life works? :\|
+Thank you for your patience.
 
 ---
 
-#### Research
+## About Me
 
-It's somewhat pitiful for me that I didn't yet got myself any publication, but I did spend pretty time on my research, and I hope that I could bring you some interesting problems and solutions soon.
+Here's what you should know about me:
 
-As for my research interest, I'm currently working in the subfield of **LLM Safety & Security**, focusing on **SoadNLP** ( **s**ecurity - **o**riented **ad**versarial **NLP**, according to [this paper](https://arxiv.org/abs/2210.10683)). Later on I'm planning to apply for a PhD after graduation. I'm quite sure that it would be hard, but I'm really into my work, and before realization, I found myself gradually growing into a indeed researcher.  
+- I'm currently a undergraduate student, majoring in computer science at Zhejiang University. 
 
-Some may argue that it would be a little bit too early for a undergrad year 1 student to propose and work on a real research project, but sometimes things just work themselvesout, and at least I can always think myself to be a qualified researcher, and despite my figuring things out still, the journey's fun as well.
+- I'm dedicated to some research topics, especially in the field of **LLM SSAP (*S*ecurity, *S*afety, *A*lignment & *P*rivacy)**.
 
----
+- I'm also interested in philosophy, and I'd emphasize that it's more like a lifestyle than a major.
 
-#### Education
-
-I spent my high school years at [Tongren No. 1 High School of Guizhou](https://en.wikipedia.org/wiki/Tongren_No._1_Middle_School), where I first built the foundation for my passion for scientific research.
-
-During high school, I got involved in a **biology experiment interest group** and a **Physics Olympiad seminar**. These activities sparked my interest in science and technology, which eventually led me to choose research as my future career path. Interestingly, I also discovered a strong interest for **language and literature**, despite my focus on STEM. On top of that, high school was a time of psychological and social challenges for me indeed, but I received an overwhelming amount of **support** from those around me. Therefore, I’d like to take this moment to express my heartfelt gratitude to a few key people:
-
-- **Mr. Chen** (co-first author of [this paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/tax.12597)) and **Ms. Yang** for their mentorship in the biology experiment interest group
-
-- **Mr. Chen** and **Mr. Liu** for guiding me in the Physics Olympiad seminar
-
-- **Ms. Wang** (my Chinese teacher) and **Ms. Zhang** (my English teacher) for nurturing my interest in language and literature.
-
-- **Ms. Yang** (my class mentor and Chinese teacher) for providing unwavering support and encouragement throughout my senior year.
+- I'm a furry fandom, ever since my young age, about 15 years old.
 
 ---
 
-#### Posts
+### Major
 
-Good news! I've finally drafted some of my posts! (And I'll continue to upload more)
+Computer science is indeed a fascinating field, and I'm excited to be a part of it. I've been interested in it since my junior high school years, and I've been doing it ever since.
 
-Note: The bilingual versions of this site may contain asynchronously updated posts!
+Although I've been expecting a physics major indeed, the fact is that I've failed CEE, thus lost the chance to enter PKU, and hencely, I've been stuck at ZJU, and finally opted for computer science, which turned to be a more suitable major for me.
 
-- AI Security Researcher
+And, then, everything began to speed up, and all of a sudden, I find myself involved in a real research project, reading papers, proposing ideas, and even writing drafts. It's quite a journey, I've lost something, my physics books dusted, but I've gained even more. 
 
-	- [What I'm doing and why I'm doing about research (Coming Soon)](post/Research.md)
-
-- Occasional Existential Crisis
-
-	- [Haru to Sakura, as deer and rabbit](post/HaruToSakura.md)
-
-	- [On which path was I led here (Coming Soon)](post/PathLeadHere.md)
-
-	- [The Torrent of Symbols: Singles' Day and the Altar of Consumerism](post/SymbolicTorrent.md)
-
-- Caffeine & Coke Dependent
-
-	- [Sadly I've been on coke-reduction diet(Coming Soon)](post/CokeDiet.md)
-	
-- digital-nomad Cyborg Melancholia
-
-	- [Becoming YardRat: A Journey Beyond Human Boundaries](post/BecomingYardRat.md)
-
-	- [OCD Production: Why and how did I construct this site?](post/OCDProduction.md)
+Finally, I've got here, writing my blog, and sharing my experiences. Sometimes life wouldn't be quite as smooth as I expected, but as long as I keep going, I'd always find a way to make it work.
 
 ---
 
-#### Links
+### Research
 
-The following links are by people I know, and should have already reciprocated my link (they had better ...)
+To begin with, I have to admit that, sadly, I haven't yet got myself any publication. It's quite a pity, but would still make sense to me, as I'm still in year 1 of my undergraduate.
 
-- [XyX: too few philosophical minds, and too many yiffy minds](https://xuan-insr.github.io)
+But I did spend a lot of time on my research, and it's coming soon my first research paper (an arXiv preprint, though). Once I've finished it, I'll update some notes about it here.
 
-- [yeelysia: hard to find a viable nickname in English](https://elysium-everlasting.com)
+In general, my research focuses on **LLM SSAP**, namely, LLM's security, safety, alignment and privacy. My empricial research work focus on two topics, including *LLM jailbreak defense* and *RAG system privacy perservation*.
 
-- [night1918: To learn is to constantly uncover one's own shortcomings.](https://blog.night1918.top)
+Later on, I'm planning to apply for a PhD after graduation. I'm quite sure that it would be hard, but I'm really into my work, and I'm also confident that I'm on the right track, approaching toward a well-trained researcher. 
 
-- [This Space Left Blank, As a Warning](post/warning.md)
+Some may argue that it would be too early for a year 1 student to handle a real research project, but sometimes things are going to work themselves out. I've indeed gone through a lot, steppeing over numerous bumps, but **I'm still here, on my feets.**
 
-Additional recommendations: 
+---
 
-- [Yanyan Jiang at NJU: I've read the letter, but I'm still considering a PhD degree though](https://jyywiki.cn)
+### Philosophy
 
-- [Askell at Anthropic: It is exactly the blog instead of the homepage that inspires me](https://www.askell.blog)
+As I've already mentioned, philosophy, is more like a lifestyle for me, which means that I'd rather immerse myself in sophiscated topics, than to be a strict adherent of any one.
 
-- [Li Lu at ZJU: My undergrad year 1 class advisor, really inspiring about my academic planning](https://lynnlilu.github.io)
+In fact, I've begun such a lifestyle since my senior high school years, and I've been doing it ever since. I've been thinking a lot about philosophy, and trying to find some answers to some of my questions. 
 
-#### Contact
+Despite such interests, I've never been able to find a satisfactory answer to my questions, and I'm still not sure if I'm on the right track. What's worse, I couldn't find enough spare time to pursue my interests, so undoubtedly, I'm still quite naive about it.
+
+However, the style has already been carved into my mind, as something bundled for the rest of my life. I can't get rid of such thoughts, can't relieve myself for some plain yet heartfelt happiness, and can't find a way to escape from philosophy.
+
+Thus, how would you view philosophy? I can't declare that, such or such is the right way to live, but only can I determine that I've got no other choice. For me, there's only one way to live, and that's to live as a philosopher.
+
+
+---
+
+### Furry Fandom
+
+I've been a furry fandom since my young age, actually, about 15 years old. I've been, indeed, quite a *otaku* actually. I watch animes, listen to vocaloid, and even got myself several comics. I'd emphasize furry fandom here merely because it would be quite more recognizable (or, infamous, in some senses).
+
+Despite such annoying issues, I've actuall found quite fun for myself, and I'm quite sure that I'll never regret it. I've been enjoying, say, Neon Genesis Evangelion, Ghost in the Shell, Yosuga no Sora, and some more. For vocaloid, I've been listening to iyowa, wowaka, etc. 
+
+And for the part of furry fandom, I'd rather sometimes disguise myself as a furry character, especially when online, since it not only would perserve my anonymity but also would make me feel more comfortable. 
+
+Thus, it's indeed a bit of *otaku* for me to do so, but it doesn't matter at all, as long as I'm enjoying it. Have fun exploring my homepage if you're also interested in furry fandom!
+
+---
+
+## Posts
+
+After a certain period of slience, I've finally returned to updating. Sadly, I've been rethinking about these contents, and decided to rewrite, and hence, the posts are not available now. I'm sorry for the inconvenience, and I'll try my best to update them as soon as possible.
+
+---
+
+## Links
+
+Here lists some links that I've found interesting, and worth sharing. Note that certain links are by people I know, but more would be by strangers. If you're one of these strangers, I'd appreaciate it if you could reciprocate my link, and share it with others.
+
+- [01gg](https://jly191.github.io/)
+
+- [Blank](post/warning.md)
+
+- [inuebisu](https://inuebisu.cn)
+
+- [Dr. Li Lu](https://lynnlilu.github.io)
+
+- [night1918](https://blog.night1918.top)
+
+- [xuan-insr](https://xuan-insr.github.io)
+
+- [yeelysia](https://elysium-everlasting.com)
+
+
+## Contact
 
 Feel free to contact me via email: yardrat0117@gmail.com
