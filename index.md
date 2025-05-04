@@ -3,13 +3,9 @@ layout: default
 title: YardRat the wolf
 ---
 
-## Chinese Version Unavailable Now...
+## Chinese Version Available Now! 
 
-Since the website is under maintainance, the Chinese version is temporarily unavailable.
-
-It is expected to be available soon, after I've finished maintaining the website and synced the content with the English version.
-
-Thank you for your patience.
+Check out Chinese version [here](/zh)!
 
 ---
 
@@ -65,7 +61,6 @@ However, the style has already been carved into my mind, as something bundled fo
 
 Thus, how would you view philosophy? I can't declare that, such or such is the right way to live, but only can I determine that I've got no other choice. For me, there's only one way to live, and that's to live as a philosopher.
 
-
 ---
 
 ### Furry Fandom
@@ -107,4 +102,4 @@ Here lists some links that I've found interesting, and worth sharing. Note that 
 
 ## Contact
 
-Feel free to contact me via email: yardrat0117@gmail.com
+Feel free to contact me via [email](yardrat0117@gmail.com), or you can also leave some message [here](https://www.cc98.org/topic/6176476) if you're a cc98 user.
