@@ -102,7 +102,11 @@ Here lists some links that I've found interesting, and worth sharing. Note that 
 
 ## Contact
 
-Feel free to contact me via [email](yardrat0117@gmail.com), or you can also leave some message [here](https://www.cc98.org/topic/6176476) if you're a cc98 user.
+Feel free to contact me via [email](yardrat0117@gmail.com)
+
+Or you can also leave some message [here](https://www.cc98.org/topic/6176476). That's my cc98 personal thread.
+
+Or just leave some comments below. I've just done giscus. (TBH I really like gruvbox Dark)
 
 <script src="https://giscus.app/client.js"
         data-repo="YardRat0117/YardRat0117.github.io"
@@ -114,7 +118,7 @@ Feel free to contact me via [email](yardrat0117@gmail.com), or you can also leav
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="gruvbox_dark"
+        data-theme="gruvbox_light"
         data-lang="zh-CN"
         data-loading="lazy"
         crossorigin="anonymous"
