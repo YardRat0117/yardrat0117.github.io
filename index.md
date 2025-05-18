@@ -103,3 +103,20 @@ Here lists some links that I've found interesting, and worth sharing. Note that 
 ## Contact
 
 Feel free to contact me via [email](yardrat0117@gmail.com), or you can also leave some message [here](https://www.cc98.org/topic/6176476) if you're a cc98 user.
+
+<script src="https://giscus.app/client.js"
+        data-repo="YardRat0117/YardRat0117.github.io"
+        data-repo-id="R_kgDON4JYqQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDON4JYqc4CqSTB"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="gruvbox_dark"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
