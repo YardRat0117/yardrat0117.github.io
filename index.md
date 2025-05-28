@@ -99,6 +99,7 @@ Here lists some links that I've found interesting, and worth sharing. Note that 
 
 - [yeelysia](https://elysium-everlasting.com)
 
+- [MikaStars39](https://mikastars39.notion.site)
 
 ## Contact
 
