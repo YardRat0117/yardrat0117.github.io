@@ -77,7 +77,27 @@ Thus, it's indeed a bit of *otaku* for me to do so, but it doesn't matter at all
 
 ## Posts
 
-After a certain period of slience, I've finally returned to updating. Sadly, I've been rethinking about these contents, and decided to rewrite, and hence, the posts are not available now. I'm sorry for the inconvenience, and I'll try my best to update them as soon as possible.
+Disclaimer: Some of these posts would possibly be of low-quality and are not recommended to read. I hope that you could determine these by yourselves.
+
+- Site: this category contains posts about my meta-motivation for this site.
+
+    - [OCD Production: Why this site](post/OCDProduction.md)
+
+- Course: this category contains posts about my course progress and motivation.
+
+    - [Benchmark ZJU CS: Guide for passing, graduating and surviving ZJU CS](post/BenchmarkCS.md)
+
+    - [Flip-Flop Discussion](post/FlipFlopDiscussion.md)
+
+- Research: this category contains posts about my research progress and motivation.
+
+    - [The Undergrad Grind](post/Grind.md)
+
+- Philosophy: this category contains posts about my occasional nosense.
+
+    - [Becoming Yardrat](post/BecomingRat.md)
+
+    - [Haru to Sakura](post/HaruToSakura.md)
 
 ---
 
@@ -95,6 +115,7 @@ These links would be shuffled when presenting, thus I don't necessary need to ma
   <li><a href="https://mem.ac">Memset0</a></li>
 </ul>
 
+<!-- This javascript is for randomly sorted links -->
 <script>
   function shuffleList(listId) {
   const list = document.getElementById(listId);
@@ -103,7 +124,6 @@ These links would be shuffled when presenting, thus I don't necessary need to ma
     return;
   }
 
-  // DEBUG: Log the innerHTML of the list
   console.log("innerHTML of list '" + listId + "':", list.innerHTML);
 
   const items = Array.from(list.getElementsByTagName('li'));
@@ -138,6 +158,7 @@ Or you can also leave some message [here](https://www.cc98.org/topic/6176476). T
 
 Or just leave some comments below. I've just done giscus. (TBH I really like gruvbox Dark)
 
+<!-- This javascript is for giscus deployment -->
 <script src="https://giscus.app/client.js"
         data-repo="YardRat0117/YardRat0117.github.io"
         data-repo-id="R_kgDON4JYqQ"
