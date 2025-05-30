@@ -13,7 +13,7 @@ Check out Chinese version [here](/zh)!
 
 Here's what you should know about me:
 
-- I'm currently a undergraduate student, majoring in computer science at Zhejiang University. 
+- I'm currently a undergraduate student, majoring in computer science at Zhejiang University.
 
 - I'm dedicated to some research topics, especially in the field of **LLM SSAP (*S*ecurity, *S*afety, *A*lignment & *P*rivacy)**.
 
@@ -83,23 +83,52 @@ After a certain period of slience, I've finally returned to updating. Sadly, I'v
 
 ## Links
 
-Here lists some links that I've found interesting, and worth sharing. Note that certain links are by people I know, but more would be by strangers. If you're one of these strangers, I'd appreaciate it if you could reciprocate my link, and share it with others.
+These links would be shuffled when presenting, thus I don't necessary need to manually rank them.
 
-- [01gg](https://jly191.github.io/)
+<ul id="ratlink">
+  <li><a href="https://jly191.github.io">01gg</a></li>
+  <li><a href="post/warning.md">Blank</a></li>
+  <li><a href="https://inuebisu.cn">inuebisu</a></li>
+  <li><a href="https://blog.night1918.top">night1918</a></li>
+  <li><a href="https://elysium-everlasting.com">yeelysia</a></li>
+  <li><a href="https://mikastars39.notion.site">MikaStars39</a></li>
+  <li><a href="https://mem.ac">Memset0</a></li>
+</ul>
 
-- [Blank](post/warning.md)
+<script>
+  function shuffleList(listId) {
+  const list = document.getElementById(listId);
+  if (!list) {
+    console.error("Error: Could not find the list element with ID: '" + listId + "'.");
+    return;
+  }
 
-- [inuebisu](https://inuebisu.cn)
+  // DEBUG: Log the innerHTML of the list
+  console.log("innerHTML of list '" + listId + "':", list.innerHTML);
 
-- [Dr. Li Lu](https://lynnlilu.github.io)
+  const items = Array.from(list.getElementsByTagName('li'));
+  if (items.length <= 1) {
+    console.warn("Warning: List with ID '" + listId + "' has " + items.length + " item(s). No shuffling needed or possible.");
+    return;
+  }
 
-- [night1918](https://blog.night1918.top)
+  for (let i = items.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [items[i], items[j]] = [items[j], items[i]];
+  }
 
-- [xuan-insr](https://xuan-insr.github.io)
+  while (list.firstChild) {
+    list.removeChild(list.firstChild);
+  }
 
-- [yeelysia](https://elysium-everlasting.com)
+  items.forEach(item => list.appendChild(item));
+  console.log("Success: List with ID '" + listId + "' has been shuffled.");
+}
 
-- [MikaStars39](https://mikastars39.notion.site)
+document.addEventListener('DOMContentLoaded', () => {
+  shuffleList('ratlink');
+});
+</script>
 
 ## Contact
 
