@@ -74,7 +74,9 @@ By moving to edge-triggered designs, especially edge-triggered D flip-flops, we 
 
 - Statistically, a random input glitch perfectly aligning with the very narrow setup/hold window around the clock edge is less frequent than a glitch occurring during the much longer "clock high" phase of a level-sensitive latch. Modern design practices focus on ensuring data stability around clock edges to mitigate metastability.
 
-Thus, while no system is immune to all possible signal integrity problems, edge-triggering is a fundamental and highly effective solution to the 1's catching problem discussed.
+Thus, while no system is immune to all possible signal integrity problems, edge-triggering is a fundamental and highly effective solution to the 1's catching problem discussed. You can refer to this simulation, note that the highlighted yellow timing point indicates a non-trivial "glitch", that, hit right in the head of positive edge of the clock pulse, and altered the `q` signal indeed. 
+
+![Circuit Simulation for D-FlipFlop](https://github.com/YardRat0117/picx-images-hosting/raw/master/exception.1e8uft87la.webp)
 
 #### Conclusion
 
