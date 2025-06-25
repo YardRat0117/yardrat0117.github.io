@@ -68,3 +68,20 @@ Thus, I'm gonna work on specific courses. For each one, I'd offer a metric conta
 - Digital Logic Design
 
 - Fundamentals of Data Structure
+
+<!-- This javascript is for giscus deployment -->
+<script src="https://giscus.app/client.js"
+        data-repo="YardRat0117/YardRat0117.github.io"
+        data-repo-id="R_kgDON4JYqQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDON4JYqc4CqSTB"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="gruvbox_light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
